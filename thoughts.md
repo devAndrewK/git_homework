@@ -5,3 +5,5 @@
 2: Limit times when I am stuck to 30 minutes before reaching out for help.
 
 Thank you to Trish and her husband for helping me customize my Terminal app!
+
+1: Coding is overwhelming but fun!
